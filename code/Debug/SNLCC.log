@@ -1,0 +1,14 @@
+﻿  main.cpp
+  scanner.cpp
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\scanner.cpp(284,22): warning C4018: “<”: 有符号/无符号不匹配
+  semantic.cpp
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\semantic.cpp(157,40): warning C4805: “!=”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\semantic.cpp(160,49): warning C4805: “!=”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\semantic.cpp(168,22): warning C4805: “!=”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\semantic.cpp(175,21): warning C4805: “!=”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\semantic.cpp(305,21): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\semantic.cpp(698,25): warning C4805: “!=”: 在操作中将类型“int”与类型“bool”混合不安全
+  正在生成代码...
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\scanner.cpp(115): warning C4715: “Scanner::reservedLookup”: 不是所有的控件路径都返回值
+C:\Users\岳治儒\Desktop\111111111111111\新(1)\scanner.cpp(362): warning C4715: “Scanner::toString”: 不是所有的控件路径都返回值
+  SNLCC.vcxproj -> C:\Users\岳治儒\Desktop\111111111111111\新(1)\Debug\SNLCC.exe
