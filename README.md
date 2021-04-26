@@ -1,4 +1,4 @@
-# SNL analyzer
+# SNL Analyzer
 
 This is a SNL analyzer for Compiler Principle Course Design based on C++
 
