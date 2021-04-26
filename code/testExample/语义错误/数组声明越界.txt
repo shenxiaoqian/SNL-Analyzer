@@ -1,0 +1,24 @@
+program pp
+type t1=integer;
+t2=t1;
+var  integer v1,v2,c;
+t2  v3;
+array [101..100] of integer  a;
+record
+array [1..10]  of  integer  b;
+integer  v4;    
+end  r1;
+char  m1,m2;
+procedure f(var  t1  y);
+var  integer v11,v22;
+array [2..100] of char  a1;
+begin
+r1.v4:=1+3*(7-5);
+y:= r1.v4
+end
+begin
+a[35]:=5;
+v1:=a[35];
+f(v1);
+write(v1)
+end.
